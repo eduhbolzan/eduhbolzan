@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, meu nome é Eduardo 👋
 
-<!--
-**eduhbolzan/eduhbolzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Analista de sistemas
 
-Here are some ideas to get you started:
+🖥️ Tenho focado meus estudos nas linguagens:
+<div display="inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️E focado em desenvolvimento front-end
+
+<div display="inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />        
+</div> 
+
+🖥️Me encontrem também através do meu Linkedin:
+
+<div display="inline">
+  <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-l-ba5220b5/">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />  
+  </a>
+</div>
+
+
+
+
