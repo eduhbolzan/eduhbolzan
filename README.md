@@ -6,7 +6,7 @@
 <div display="inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/ef9fc941-8676-490b-87c2-43ca1e975ea1)" />
+  <img width='50' height='50' src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-7017516947717339mnyf7eumy.png" />
 </div>    
 
 🖥️E focado em desenvolvimento front-end
