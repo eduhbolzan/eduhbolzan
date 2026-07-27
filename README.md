@@ -5,12 +5,12 @@ direcionando em garantir a qualidade de software por meio de testes.
 
 🚀 Áreas de Estudo
 <ul>
-  ✅<li>Testes Manuais</li>
-  ✅<li>Automação de Testes com Playwright</li>
-  ✅<li>Robot Framework</li>
-  ✅<li>SQL</li>
-  ✅<li>Boas práticas de QA</li>
-  ✅<li>Metodologias Ágeis (Scrum)</li>
+  <li>✅Testes Manuais</li>
+  <li>✅Automação de Testes com Playwright</li>
+  <li>✅Robot Framework</li>
+  <li>✅SQL</li>
+  <li>✅Boas práticas de QA</li>
+  <li>✅Metodologias Ágeis (Scrum)</li>
 </ul>
 
 🖥️Me encontrem também através do meu Linkedin:
