@@ -4,7 +4,7 @@
 direcionando em garantir a qualidade de software por meio de testes.
 
 🚀 Áreas de Estudo
-<ul>
+<ul style="list-style-type: none;">
   <li>✅Testes Manuais</li>
   <li>✅Automação de Testes com Playwright</li>
   <li>✅Robot Framework</li>
