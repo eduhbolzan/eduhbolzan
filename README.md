@@ -4,7 +4,18 @@
 direcionando em garantir a qualidade de software por meio de testes.
 
 🚀 Áreas de Estudo
-<ul style="list-style-type: none">
+<style>
+  ul.lista-sucesso {
+    list-style-type: none; /* Remove a bolinha padrão */
+    padding-left: 0;       /* Alinha o texto à esquerda */
+  }
+
+  ul.lista-sucesso li::before {
+    content: "✅";         /* Define o seu emoji personalizado */
+    margin-right: 10px;    /* Deixa um espaço entre o emoji e o texto */
+  }
+
+<ul>
   <li>✅Testes Manuais</li>
   <li>✅Automação de Testes com Playwright</li>
   <li>✅Robot Framework</li>
