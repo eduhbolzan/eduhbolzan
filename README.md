@@ -12,7 +12,7 @@
 🖥️E focado em técnicas e ferramentas de QA
 
 <div display="inline">
-  <img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/90da88c5-6a96-4f8c-aacb-8214ea439d56" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/90da88c5-6a96-4f8c-aacb-8214ea439d56" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />        
 </div> 
