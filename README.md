@@ -1,21 +1,17 @@
 ## Olá, meu nome é Eduardo 👋
 
-🖥️ Analista de sistemas
+🖥️ Analista de sistemas. Atualmente tenho focado meus estudos para a área de Quality Assurence (QA),
+direcionando em garantir a qualidade de software por meio de testes.
 
-🖥️ Tenho focado meus estudos em qualidade de software:
-<div display="inline">
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width='50' height='50' src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-7017516947717339mnyf7eumy.png" />
-</div>    
-
-🖥️E focado em técnicas e ferramentas de QA
-
-<div display="inline">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/db49e8e3-3f70-4b01-a802-5d5ce55684a6" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />        
-</div> 
+🚀 Áreas de Estudo
+✅ Testes Manuais
+✅ Automação de Testes com Playwright
+✅ Robot Framework
+✅ Git e GitHub
+✅ SQL
+✅ APIs
+✅ Boas práticas de QA
+✅ Metodologias Ágeis (Scrum)
 
 🖥️Me encontrem também através do meu Linkedin:
 
